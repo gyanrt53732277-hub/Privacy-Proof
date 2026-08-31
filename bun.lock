@@ -2,7 +2,7 @@
   "lockfileVersion": 1,
   "configVersion": 1,
   "workspaces": {
-    "": {
+    "": { 
       "name": "ProofFolio", 
       "dependencies": {
         "@midnight-ntwrk/compact-js": "^2.5.0",
