@@ -1,0 +1,9 @@
+node_modules
+dist
+build
+.env
+deployment.json
+frontend/.env.local
+midnight-level-db
+frontend/.data/admin-store.json
+/contracts/managed
