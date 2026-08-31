@@ -12,7 +12,7 @@
     "build": "cd frontend && npm run build",
     "typecheck": "tsc --noEmit"
   },
-  "dependencies": {
+  "dependencies": { 
     "@midnight-ntwrk/compact-js": "2.5.1",
     "@midnight-ntwrk/compact-runtime": "0.16.0",
     "@midnight-ntwrk/dapp-connector-api": "^4.0.1",
