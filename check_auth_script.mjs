@@ -8,7 +8,7 @@ function parseEnv(path) {
     if (!line || line.startsWith('#')) continue;
     const i = line.indexOf('=');
     if (i > -1) env[line.slice(0,i).trim()] = line.slice(i+1).trim();
-  }
+  } 
   return env;
 }
 
