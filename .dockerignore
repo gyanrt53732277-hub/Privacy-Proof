@@ -1,6 +1,6 @@
 **/node_modules
 **/.next
 **/package-lock.json
-frontend/.env*
+frontend/.env* 
 .git
 .github
