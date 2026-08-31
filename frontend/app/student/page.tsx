@@ -4,7 +4,7 @@ import { useState } from 'react';
 import Link from 'next/link';
 import { useWallet } from '@/hooks/useWallet';
 import { useContract } from '@/hooks/useContract';
-import { DegreeType } from '@/lib/witness';
+import { DegreeType } from '@/lib/witness'; 
 
 const CONTRACT_ADDRESS = process.env.NEXT_PUBLIC_CONTRACT_ADDRESS ?? '';
 
