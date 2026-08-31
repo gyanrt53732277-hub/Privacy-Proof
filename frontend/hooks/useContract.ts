@@ -1,7 +1,7 @@
 "use client";
 
 /**
- * useContract.ts — ProofFolio v2  (FIXED)
+ * useContract.ts — ProofFolio v2  (FIXED) 
  *
  * BUG FIXES applied in this file:
  *
