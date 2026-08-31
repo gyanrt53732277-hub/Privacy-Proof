@@ -4,7 +4,7 @@ export type Witnesses<PS> = {
   adminSecretKey(context: __compactRuntime.WitnessContext<Ledger, PS>): [PS, Uint8Array];
   issuerSecretKey(context: __compactRuntime.WitnessContext<Ledger, PS>): [PS, Uint8Array];
   studentSecretKey(context: __compactRuntime.WitnessContext<Ledger, PS>): [PS, Uint8Array];
-  credentialPayload(context: __compactRuntime.WitnessContext<Ledger, PS>): [PS, Uint8Array];
+  credentialPayload(context: __compactRuntime.WitnessContext<Ledger, PS>): [PS, Uint8Array]; 
   credentialNonce(context: __compactRuntime.WitnessContext<Ledger, PS>): [PS, Uint8Array];
   credentialIssuerPk(context: __compactRuntime.WitnessContext<Ledger, PS>): [PS, Uint8Array];
   findCredentialPath(context: __compactRuntime.WitnessContext<Ledger, PS>,
