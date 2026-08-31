@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import './globals.css';
-import { DM_Serif_Display, Outfit, JetBrains_Mono } from 'next/font/google';
+import { DM_Serif_Display, Outfit, JetBrains_Mono } from 'next/font/google'; 
 
 
 const serif = DM_Serif_Display({ subsets: ['latin'], weight: ['400'], style: ['normal','italic'], variable: '--font-serif' });
