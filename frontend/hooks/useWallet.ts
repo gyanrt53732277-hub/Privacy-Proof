@@ -5,7 +5,7 @@ import '@midnight-ntwrk/dapp-connector-api';
 import type {
   Configuration,
   ConnectedAPI,
-  ConnectionStatus,
+  ConnectionStatus, 
   InitialAPI,
 } from '@midnight-ntwrk/dapp-connector-api';
 import { setNetworkId } from '@midnight-ntwrk/midnight-js-network-id';
