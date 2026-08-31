@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react';
 import Link from 'next/link';
 import { useWallet } from '@/hooks/useWallet';
 import { useContract } from '@/hooks/useContract';
-
+ 
 const CONTRACT_ADDRESS = process.env.NEXT_PUBLIC_CONTRACT_ADDRESS ?? '';
 
 export default function EmployerPage() {
