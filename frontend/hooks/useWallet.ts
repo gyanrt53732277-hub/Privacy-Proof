@@ -4,7 +4,7 @@ import { useCallback, useState } from 'react';
 import '@midnight-ntwrk/dapp-connector-api';
 import type {
   Configuration,
-  ConnectedAPI,
+  ConnectedAPI, 
   ConnectionStatus, 
   InitialAPI,
 } from '@midnight-ntwrk/dapp-connector-api';
