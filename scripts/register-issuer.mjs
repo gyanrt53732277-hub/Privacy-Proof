@@ -4,7 +4,7 @@ import { fileURLToPath } from "node:url";
 import { randomBytes } from "node:crypto";
 
 import { submitCallTx } from "@midnight-ntwrk/midnight-js/contracts";
-import {
+import { 
   ProofFolio,
   createProviders,
   createWallet,
