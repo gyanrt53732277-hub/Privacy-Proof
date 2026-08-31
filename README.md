@@ -1,6 +1,6 @@
 # ProofFolio: Privacy-Preserving Academic Credential Verification
  
-> **Tagline:** Verify qualifications, not personal data. Built on the Midnight Network.
+> **Tagline:** Verify qualifications, not personal data. Built on the Midnight Network. 
  
 [![CI](https://github.com/gyanrt53732277-hub/ProofFolio/actions/workflows/ci.yml/badge.svg)](https://github.com/gyanrt53732277-hub/ProofFolio/actions/workflows/ci.yml)
 
