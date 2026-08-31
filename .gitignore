@@ -2,7 +2,7 @@ node_modules
 dist
 build
 .env
-deployment.json
+deployment.json 
 frontend/.env.local
 midnight-level-db
 frontend/.data/admin-store.json
