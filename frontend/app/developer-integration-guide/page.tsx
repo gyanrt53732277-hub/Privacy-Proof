@@ -3,7 +3,7 @@
 import { useMemo, useState } from 'react';
 import Link from 'next/link';
 import { useWallet } from '@/hooks/useWallet';
-import { useContract } from '@/hooks/useContract';
+import { useContract } from '@/hooks/useContract'; 
 import {
   runIntegrationSuite,
   type IntegrationRunResult,
