@@ -14,7 +14,7 @@ function parseEnv(path) {
 
 async function run() {
   const env = parseEnv('./frontend/.env.local');
-  const addr = env.NEXT_PUBLIC_CONTRACT_ADDRESS;
+  const addr = env.NEXT_PUBLIC_CONTRACT_ADDRESS; 
   const operatorSeed = '8dab386a361d309f923ad9b151fc4409946c6549b1d6dc04f3a929e96db4cd48';
   
   const w = await createWallet(operatorSeed);
